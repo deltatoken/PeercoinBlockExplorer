@@ -4,11 +4,11 @@
 	Wallet Configuration
 ******************************************************************************/
 	$GLOBALS["wallet_ip"] = "127.0.0.1";
-	$GLOBALS["wallet_port"] = "9902";
-	$GLOBALS["wallet_user"] = "USERNAME";
-	$GLOBALS["wallet_pass"] = "PASSWORD";
+	$GLOBALS["wallet_port"] = "24067";
+	$GLOBALS["wallet_user"] = "rpc_selacoin";
+	$GLOBALS["wallet_pass"] = "CNjhjhjhjsahKWiZpMzFxdvb9R7vKuAvYWRXqr24EfCkdjz";
 
-	$coin_name = "Peercoin";
+	$coin_name = "selacoin";
 
 /******************************************************************************
 
